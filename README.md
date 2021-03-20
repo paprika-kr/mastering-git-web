@@ -10,6 +10,7 @@
 * AI Chatting Bot
 * Spot Recommend
 * Collect Items(point/coupon/gift pass)
+
 etc..
 
 
